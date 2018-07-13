@@ -1,0 +1,5 @@
+pyramid.py 对图片产生金字塔效果
+sliding_windows.py 滑动窗口
+num_slow.py 非抑制
+其中非抑制未完全实现，因为在传入的参数中有一个是待选框的位置，但该步骤未完全实现。
+参考网址：https://www.pyimagesearch.com/2014/11/17/non-maximum-suppression-object-detection-python/
