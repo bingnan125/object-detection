@@ -2,7 +2,7 @@
 """
 Created on Fri Jul 13 10:02:04 2018
 
-@author: asus
+@author: Bona
 """
 import numpy as np
 
@@ -104,33 +104,4 @@ for (imagePath,boundingBoxes) in images:
     #display the image
     cv2.imshow()
     cv2.imshow()
-    cv.waitKey(0)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
+    cv.waitKey(0)    
