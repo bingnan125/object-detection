@@ -2,7 +2,7 @@
 """
 Created on Fri Jul 13 15:00:08 2018
 
-@author: asus
+@author: Bona
 """
 
 import imutils
