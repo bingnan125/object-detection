@@ -1,5 +1,4 @@
-pyramid.py ¶ÔÍ¼Æ¬²úÉú½ğ×ÖËşĞ§¹û
-sliding_windows.py »¬¶¯´°¿Ú
-num_slow.py ·ÇÒÖÖÆ
-ÆäÖĞ·ÇÒÖÖÆÎ´ÍêÈ«ÊµÏÖ£¬ÒòÎªÔÚ´«ÈëµÄ²ÎÊıÖĞÓĞÒ»¸öÊÇ´ıÑ¡¿òµÄÎ»ÖÃ£¬µ«¸Ã²½ÖèÎ´ÍêÈ«ÊµÏÖ¡£
-²Î¿¼ÍøÖ·£ºhttps://www.pyimagesearch.com/2014/11/17/non-maximum-suppression-object-detection-python/
+pyramid.py å¯¹å›¾ç‰‡äº§ç”Ÿé‡‘å­—å¡”æ•ˆæœ
+sliding_windows.py æ»‘åŠ¨çª—å£
+num_slow.py éæŠ‘åˆ¶
+å‚è€ƒç½‘å€ï¼šhttps://www.pyimagesearch.com/2014/11/17/non-maximum-suppression-object-detection-python/
